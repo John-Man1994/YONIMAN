@@ -1,4 +1,4 @@
-[10/17/26 19:20] Tadase Dorm: <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Yonas Habtamu &fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 <div align="center">
@@ -20,9 +20,9 @@
 
 </td>
 <td width="25%" valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/build-learn-grow.svg" width="180"/>
+<img src="https://raw.githubusercontent.com/Yoni/yoni/main/assets/build-learn-grow.svg" width="180"/>
 <br/>
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/code-icon.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/yYoni/Yoni/main/assets/code-icon.svg" width="70"/>
 </td>
 </tr>
 </table>
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tademf&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Yoni&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
@@ -90,7 +90,7 @@ Backend Development
 <td width="50%" valign="top">
 
 ### 🎓 Unified Smart Campus
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project1-campus.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Yoni/Yoni/main/assets/project1-campus.svg" width="100%"/>
 
 A smart campus application designed to support university and academic management workflows.
 
@@ -102,13 +102,13 @@ A smart campus application designed to support university and academic managemen
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logo=django&logoColor=white)
 
-[🔗 View Repository](https://github.com/tademf/unifed-smart-campus)
+[🔗 View Repository](https://github.com/Yoni/unifed-smart-campus)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 Multi-Vendor E-Commerce
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project2-ecommerce.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Yoni/Yoni/main/assets/project2-ecommerce.svg" width="100%"/>
 
 A multi-vendor commerce project focused on product management, vendor workflows, and online shopping.
 
@@ -120,7 +120,7 @@ A multi-vendor commerce project focused on product management, vendor workflows,
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-[🔗 View Repository](https://github.com/tademf)
+[🔗 View Repository](https://github.com/Yoni)
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ A multi-vendor commerce project focused on product management, vendor workflows,
 <td width="50%" valign="top">
 
 ### 🎵 React Music Player
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project3-music.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Yoni/Yoni/main/assets/project3-music.svg" width="100%"/>
 
 A music player application built to explore interactive interfaces and reusable React components.
 
@@ -146,7 +146,7 @@ A music player application built to explore interactive interfaces and reusable 
 <td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project4-portfolio.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Yoni/Yoni/main/assets/project3-music.svg" width="100%"/>
 
 A modern portfolio website to showcase skills, projects and journey.
 
@@ -154,7 +154,7 @@ A modern portfolio website to showcase skills, projects and journey.
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-[🔗 View Repository](https://github.com/tademf)
+[🔗 View Repository](https://github.com/Yoni)
 
 </td>
 </tr>
@@ -165,7 +165,7 @@ A modern portfolio website to showcase skills, projects and journey.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tademf&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yoni&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -176,7 +176,7 @@ A modern portfolio website to showcase skills, projects and journey.
 <img src="https://github-readme-stats.vercel.app/api?username=tademf&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tademf&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-[10/17/26 19:20] Tadase Dorm: <p align="center">
+ <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tademf&theme=tokyonight&hide_border=true" />
 </p>
 
