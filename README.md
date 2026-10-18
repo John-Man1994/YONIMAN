@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td width="30%" valign="middle">
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/profile.png" width="160" height="160" style="border-radius:50%; border:4px solid #3b82f6; box-shadow: 0 0 25px #3b82f6; object-fit:cover;" alt="Tadesse Mersha"/>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/profile.png" width="160" height="160" style="border-radius:50%; border:4px solid #3b82f6; box-shadow: 0 0 25px #3b82f6; object-fit:cover;" alt="Yonas Habtamu"/>
 </td>
 <td width="45%" valign="middle" align="left">
 
@@ -90,7 +90,7 @@ Backend Development
 <td width="50%" valign="top">
 
 ### 🎓 Unified Smart Campus
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project1-campus.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/yoni/yoni/main/assets/project1-campus.svg" width="100%"/>
 
 A smart campus application designed to support university and academic management workflows.
 
@@ -108,7 +108,7 @@ A smart campus application designed to support university and academic managemen
 <td width="50%" valign="top">
 
 ### 🛒 Multi-Vendor E-Commerce
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project2-ecommerce.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/yoni/yoni/main/assets/project2-ecommerce.svg" width="100%"/>
 
 A multi-vendor commerce project focused on product management, vendor workflows, and online shopping.
 
@@ -128,7 +128,7 @@ A multi-vendor commerce project focused on product management, vendor workflows,
 <td width="50%" valign="top">
 
 ### 🎵 React Music Player
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project3-music.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/yoni/yoni/main/assets/project3-music.svg" width="100%"/>
 
 A music player application built to explore interactive interfaces and reusable React components.
 
@@ -146,7 +146,7 @@ A music player application built to explore interactive interfaces and reusable 
 <td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project4-portfolio.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/yoni/yoni/main/assets/project4-portfolio.svg" width="100%"/>
 
 A modern portfolio website to showcase skills, projects and journey.
 
@@ -214,7 +214,7 @@ A modern portfolio website to showcase skills, projects and journey.
 ## 🤝 Let's Connect
 
 <p align="center">
-<a href="https://github.com/tademf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/yoniman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -225,4 +225,4 @@ A modern portfolio website to showcase skills, projects and journey.
 
 ⭐️ Thanks for visiting my profile!
 
-</div>v
+</div>
