@@ -96,25 +96,25 @@ Technologies: Python, networking tools, web technologies
 
 Replace or update these project descriptions to match your actual repositories and completed work. Add repository links when the projects are available on GitHub.
 
-📊 GitHub Statistics
+
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yonas Habtamu&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonas's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas Habtamu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=John-Man1994&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonas Habtamu's GitHub Statistics" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Man1994&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonas Habtamu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yonas Habtamu&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonas's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas Habtamu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img src="https://streak-stats.demolab.com/?user=John-Man1994&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonas Habtamu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=John-Man1994&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
+
+
 
                 🌱 Currently Learning
 
