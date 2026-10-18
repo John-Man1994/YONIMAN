@@ -99,8 +99,8 @@ Replace or update these project descriptions to match your actual repositories a
 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=https://github.com/John-Man1994&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonas's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/John-Man1994&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=https://github.com/&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonas's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
