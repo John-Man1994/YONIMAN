@@ -17,12 +17,12 @@ I am a Software Engineering student passionate about building useful web applica
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=John-Man1994&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
 
-🎯 About Me
+              🎯 About Me
 
 🎓 I am studying Software Engineering.
 
@@ -38,7 +38,7 @@ I am a Software Engineering student passionate about building useful web applica
 
 🚀 My goal is to become a skilled software engineer.
 
-🛠️ Technologies & Tools
+              🛠️ Technologies & Tools
 
 Programming Languages
 
@@ -99,15 +99,15 @@ Replace or update these project descriptions to match your actual repositories a
 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonas's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=https://github.com/John-Man1994&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonas's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/John-Man1994&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/John-Man1994&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-🌱 Currently Learning
+                🌱 Currently Learning
 
 🐍 Python programming and Django development
 
