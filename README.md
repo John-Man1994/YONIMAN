@@ -10,7 +10,7 @@
 </td>
 <td width="45%" valign="middle" align="left">
 
-<h1>Hi, I'm <span style="color:#8b5cf6;">Tadesse Mersha</span> 👋</h1>
+<h1>Hi, I'm <span style="color:#8b5cf6;">Yonas Habtamu</span> 👋</h1>
 
 <h3>Software Engineering Student | Full-Stack Developer</h3>
 
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tademf&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yonas&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
@@ -165,7 +165,7 @@ A modern portfolio website to showcase skills, projects and journey.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tademf&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yonas&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -176,8 +176,8 @@ A modern portfolio website to showcase skills, projects and journey.
 <img src="https://github-readme-stats.vercel.app/api?username=tademf&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tademf&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-[10/17/26 19:20] Tadase Dorm: <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tademf&theme=tokyonight&hide_border=true" />
+[ <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yonas&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
