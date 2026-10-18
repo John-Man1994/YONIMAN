@@ -1372,7 +1372,7 @@ A modern portfolio website to showcase skills, projects and journey.
 </td>
 <td width="45%" valign="middle" align="left">
 
-<h1>Hi, I'm <span style="color:#8b5cf6;">Tadesse Mersha</span> 👋</h1>
+<h1>Hi, I'm <span style="color:#8b5cf6;">Yonas Habtamu</span> 👋</h1>
 
 <h3>Software Engineering Student | Full-Stack Developer</h3>
 
